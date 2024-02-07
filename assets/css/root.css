@@ -1,0 +1,186 @@
+:root {
+    /* font-size */
+    --fs-xsm: 14px;
+    --fs-sm: 16px;
+    --fs-md: 18px;
+    --fs-mmd: 20px;
+    --fs-lg: 25px;
+    --fs-llg: 35px;
+    --fs-xl: 50px;
+    --fs-xxl: 80px;
+    /* color  */
+    --fc-black: #000;
+    --fc-white: #FFF;
+    --fc-blue: #0b132a;
+    --fc-light-blue: #4f5665;
+    --fc-red: #F53855;
+    --fc-orange: #F53838;
+    --fc-secondary-red: #F5383859;
+    --fc-primary-orange: #FFecec;
+    --fc-white: #FFF;
+    --fc-off-white: #fbfbfb;
+    --fc-grey: #dddddd;
+    --fc-light-grey1: #eeeff2;
+    --fc-light-grey: #AFB5C0;
+    --fc-primary-grey: #dde0e4;
+    --fc-dark-grey: #f8f8f8;
+
+
+
+}
+
+@media(min-width: 320px) {
+    .heading-5 {
+        --fs-llg: 25px;
+    }
+
+    .heading-1 {
+        --fs-xl: 30px;
+    }
+
+    .laslesvpn {
+        --fs-xl: 30px;
+    }
+
+    .number {
+        --fs-lg: 20px;
+    }
+
+    .users {
+        --fs-mmd: 12px
+    }
+
+    .heading-2 {
+        --fs-llg: 32px;
+    }
+
+    .heading-3 {
+        --fs-llg: 32px;
+    }
+
+    .heading-4 {
+        --fs-llg: 29px;
+    }
+
+    .text-2 {
+        --fs-llg: 25px;
+    }
+
+    .robert {
+        --fs-md: 13px;
+    }
+
+    .card-content {
+        --fs-sm: 12px;
+    }
+
+    .text {
+        --fs-xsm: 12px;
+    }
+
+    .number-4 {
+        --fs-sm: 12px;
+    }
+
+    .heading-4 {
+        --fs-llg: 27px;
+    }
+
+}
+
+@media(min-width: 576px) {
+    .heading-4 {
+        --fs-llg: 30px;
+    }
+
+    .heading-5 {
+        --fs-llg: 30px;
+    }
+
+    .number-4 {
+        --fs-sm: 16px;
+    }
+
+    .text {
+        --fs-xsm: 14px;
+    }
+
+    .text-2 {
+        --fs-llg: 35px;
+    }
+
+    .heading-1 {
+        --fs-xl: 35px;
+    }
+
+    .laslesvpn {
+        --fs-xl: 35px;
+    }
+
+    .users {
+        --fs-mmd: 16px
+    }
+
+    .heading-3 {
+        --fs-llg: 35px;
+    }
+
+    .heading-4 {
+        --fs-llg: 35px;
+    }
+
+    .card-content {
+        --fs-sm: 16px;
+    }
+
+}
+
+@media(min-width: 768px) {
+    .heading-5 {
+        --fs-llg: 35px;
+    }
+
+    .heading-4 {
+        --fs-llg: 35px;
+    }
+
+    .heading-1 {
+        --fs-xl: 40px;
+    }
+
+    .laslesvpn {
+        --fs-xl: 40px;
+    }
+
+    .number {
+        --fs-lg: 25px;
+    }
+
+    .users {
+        --fs-mmd: 20px
+    }
+
+    .heading-2 {
+        --fs-llg: 35px;
+    }
+
+    .robert {
+        --fs-md: 18px;
+    }
+
+    .text {
+        --fs-xsm: 14px;
+    }
+}
+
+@media(min-width: 992px) {
+    .heading-1 {
+        --fs-xl: 50px;
+    }
+
+    .laslesvpn {
+        --fs-xl: 50px;
+    }
+
+
+}
